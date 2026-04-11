@@ -4,6 +4,7 @@ Name: Ayush Misra
 Registration no - 24BCG10116 
 Course: Open Source Software(linux)
 
+
 Project Overview
 This project presents an audit of Kali Linux, an open-source operating system widely used for cybersecurity, penetration testing, and ethical hacking. The aim of the project is to understand the philosophy of open source software, analyze the licensing model, and explore how Kali Linux operates within a Linux environment.
 
@@ -11,7 +12,7 @@ The project also demonstrates practical knowledge of Linux through shell scripti
 
 Kali Linux is maintained by Offensive Security and is based on Debian Linux. It contains a large number of pre-installed security tools used for vulnerability assessment and security research.
 
-Objectives of the Project
+Objectives of the Project:
 • Understand the philosophy behind open source software
 • Analyze the GNU General Public License (GPL)
 • Study the Linux file system structure
@@ -19,10 +20,10 @@ Objectives of the Project
 • Develop shell scripting skills
 • Compare open source software with proprietary software
 
-Chosen Software
+Chosen Software:
 Kali Linux is an open-source Linux distribution specifically designed for penetration testing and security auditing. It provides tools such as Nmap, Wireshark, Metasploit, and Burp Suite which are commonly used in cybersecurity.
 
-Scripts Included in Repository
+Scripts Included in Repository:
 Script 1 – System Identity Report
 This script displays basic system information such as Linux distribution name, kernel version, current logged-in user, system uptime, date, and license information.
 
